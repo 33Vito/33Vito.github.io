@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data enthusiasts wondering in the world of Economics
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tony Liu. I work as an economist. I am experienced in data analytics using R. I am currently learning
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Shiny
+- Python
+- Javascript (D3, P5)
