@@ -193,6 +193,7 @@ img::-moz-selection {
 }
 .navbar-custom .nav .navlinks-parent:after {
   content: " \25BC";
+  color: #0085a1;
 }
 .navbar-custom .nav .navlinks-children {
   width: 100%;
