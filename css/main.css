@@ -118,7 +118,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #8f00ff;
+  color: #00f0ff;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -220,14 +220,14 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #333333;
+  background: #eaeaea;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
 @media only screen and (max-width: 767px) {
   .navbar-custom .nav .navlinks-container.show-children {
-    background: #eee;
+    background: #333333;
   }
   .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
