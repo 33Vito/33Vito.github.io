@@ -8,6 +8,6 @@ tags: [first]
 ---
 
 
-My first post, looking forward to a rewarding journey!
+My first post, looking forward to a wonderful journey ahead!
 
 Tony
